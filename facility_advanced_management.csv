@@ -1,0 +1,13 @@
+"facility_id","management_practice","is_practiced","year","data_source_id","data_source_location_id","created_date","modified_date"
+14995,"regular waste compaction",True,2023,11,21,"2024-09-10 15:47:53.62757",NULL
+14995,"focused tipping area",True,2023,11,21,"2024-09-10 15:47:53.62757",NULL
+14995,"leachate recirculation",NULL,2023,11,21,"2024-09-10 15:47:53.62757",NULL
+14996,"regular waste compaction",True,2022,11,22,"2024-09-10 15:48:06.416265",NULL
+14996,"focused tipping area",True,2022,11,22,"2024-09-10 15:48:06.416265",NULL
+14996,"leachate recirculation",NULL,2022,11,22,"2024-09-10 15:48:06.416265",NULL
+14997,"regular waste compaction",True,2023,11,23,"2024-09-10 15:48:18.385707",NULL
+14997,"focused tipping area",True,2023,11,23,"2024-09-10 15:48:18.385707",NULL
+14997,"leachate recirculation",NULL,2023,11,23,"2024-09-10 15:48:18.385707",NULL
+9398,"regular waste compaction",True,2022,11,24,"2024-09-12 20:06:14.934443",NULL
+9398,"focused tipping area",True,2022,11,24,"2024-09-12 20:06:14.934443",NULL
+9398,"leachate recirculation",False,2022,11,24,"2024-09-12 20:06:14.934443",NULL
